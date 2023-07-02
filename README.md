@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/if0k5x3q9wuo6440/branch/main?svg=true)](https://ci.appveyor.com/project/Artem-Molchanov/cardorderdeliverytestselenide/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/sqk87b6q1t0yqiac/branch/main?svg=true)](https://ci.appveyor.com/project/Artem-Molchanov/test-mode-bank-acc/branch/main)
